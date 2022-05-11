@@ -1,4 +1,9 @@
-### Hi there 👋
+# Technologies
+## Comfortable/Know
+## Exposed To
+
+# About
+I am currently studying Bsc Computer Science at the University of Pretoria, I am a third year student and am planning on doing my honours in the following year. I am passionate about all things computer science and love problem solving and using code to automate daily tasks.
 
 <!--
 **MichaelDuPlessis/MichaelDuPlessis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
