@@ -40,7 +40,7 @@
 ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 # About
-I am currently studying Bsc Computer Science at the University of Pretoria, I am a third year student and am planning on doing my honours in the following year. I am passionate about all things computer science and love problem solving and using code to automate daily tasks.
+I am currently studying Bsc Computer Science at the University of Pretoria, I am a third year student and am planning on doing my honours in the following year. I am passionate about all things computer science and love problem solving and using code to automate daily tasks. \
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelDuPlessis&theme=vue)
 
 <!--
