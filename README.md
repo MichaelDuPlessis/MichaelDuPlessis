@@ -42,7 +42,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelDuPlessis&layout=compact)](https://github.com/MichaelDuPlessis/github-readme-stats)
 
 # About
-I am currently studying Bsc Computer Science at the University of Pretoria, I am a third year student and am planning on doing my honours in the following year. I am passionate about all things computer science and love problem solving and using code to automate daily tasks. \
+I am currently studying BScHons Computer Science at the University of Pretoria. I completed my BSc Computer Science degree with distinction in the year 2023. I am passionate about all things computer science and love problem solving and using code to automate daily tasks. \
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelDuPlessis&theme=vue)
 
 <!--
