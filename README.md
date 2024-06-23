@@ -42,7 +42,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelDuPlessis&layout=compact)](https://github.com/MichaelDuPlessis/github-readme-stats)
 
 # About
-I am currently studying BScHons Computer Science at the University of Pretoria. I completed my BSc Computer Science degree with distinction in the year 2023. I am passionate about all things computer science and love problem solving and using code to automate daily tasks. \
+I have completed both my BSc Computer Science and BScHons Computer Science at the University of Pretoria with a distintion. I am currently busy with my MIT Big Data Science degree as well as working at FuseIT.
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelDuPlessis&theme=vue)
 
 <!--
